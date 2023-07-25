@@ -30,3 +30,11 @@ This is a simple Rock, Paper, Scissors game implemented in Python. The game is p
 * After each round, the scores of the player, CPU, and ties are displayed using print(f"Your score : {playerScore} | CPU Score : {cpuScore} | Draw : {tieScore}").
 
 * The game continues until either the player or the CPU reaches a score of 3. Once this condition is met, the game loop ends, and the winner (either the player or the CPU) is announced, followed by "Game over."
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The output of the ui :
+
+<img width="404" alt="Screenshot 2023-07-25 115126" src="https://github.com/Unknown-333/Rock_Paper_Scissor_game/assets/90232393/50c12b86-7afb-4be5-8544-d09ecf4e4640">
+
