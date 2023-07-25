@@ -36,5 +36,5 @@ This is a simple Rock, Paper, Scissors game implemented in Python. The game is p
 
 The output of the ui :
 
-<img width="404" alt="Screenshot 2023-07-25 115126" src="https://github.com/Unknown-333/Rock_Paper_Scissor_game/assets/90232393/50c12b86-7afb-4be5-8544-d09ecf4e4640">
+<img width="340" alt="Screenshot 2023-07-25 132109" src="https://github.com/Unknown-333/Rock_Paper_Scissor_game/assets/90232393/65d46bd3-e7a2-4861-9fcf-50f5e7785773">
 
